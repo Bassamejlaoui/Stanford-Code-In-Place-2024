@@ -1,4 +1,4 @@
-# Stanford-Code-In-Place-2024
+# Stanford Code In Place 2024
 Code in Place is a free introductory programming course using the Python language, based on material from the first half of Stanford University's established intro course, CS106A. It assumes no prior programming experience. You won't receive a grade in the course, and completing it doesn't earn university credit. Instead, the main outcome is that you will have acquired a new and wonderful skill: how to program.
 
 
@@ -22,7 +22,11 @@ offer a first-of-its-kind volunteer-led course called Code in Place, hosted by S
 Code in Place was a great, uplifting, learning experience and over 10,000 students learned how to code 
 in Python.
 
+
 ```
+# My Cs106 Stanford Code in place certificate:
+![Certificate of Completion_page-0001](https://github.com/mejbass/Stanford-Code-In-Place-2024/assets/130122304/e9e6cd76-4088-4011-b3ce-3bbd78883154))
+
 
 ### README
 ```
